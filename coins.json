@@ -723,7 +723,7 @@
 	"slip44": 57,
 	"segwit": true,
 	"decred": false,
-	"forkid": 4096,
+	"forkid": null,
 	"force_bip143": false,
 	"default_fee_b": {
 		"Low": 10,
